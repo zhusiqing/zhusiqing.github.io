@@ -3,6 +3,8 @@ https://zhusiqing.github.io/
 
 ## 个人学习记录
 
+- 文档放在_post里面
+
 ## 致谢
 
 1. 这个模板是从这里 [BY Blog](https://github.com/qiubaiying/qiubaiying.github.io) 获取的 的, 感谢这个作者。 
